@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8d3f904f730fe94afa42047e9df123c",
+    "revision": "ca104cade2d5e54d86ac7acafaedb520",
     "url": "/mlf-deploy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mlf-deploy/static/css/2.a64725b0.chunk.css"
   },
   {
-    "revision": "957544784cf3ee6d6358",
+    "revision": "dddae00c3c195fd523f0",
     "url": "/mlf-deploy/static/css/main.d18eaeb9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mlf-deploy/static/js/2.e11dacf5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "957544784cf3ee6d6358",
-    "url": "/mlf-deploy/static/js/main.69773fe0.chunk.js"
+    "revision": "dddae00c3c195fd523f0",
+    "url": "/mlf-deploy/static/js/main.6146bcdd.chunk.js"
   },
   {
     "revision": "0b7f4f2fe35e04127f07",
