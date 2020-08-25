@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/mlf-deploy/static/css/main.d18eaeb9.chunk.css",
-    "main.js": "/mlf-deploy/static/js/main.f59310e2.chunk.js",
+    "main.js": "/mlf-deploy/static/js/main.0e9c83f3.chunk.js",
     "runtime-main.js": "/mlf-deploy/static/js/runtime-main.f59e1046.js",
     "static/css/2.a64725b0.chunk.css": "/mlf-deploy/static/css/2.a64725b0.chunk.css",
     "static/js/2.e11dacf5.chunk.js": "/mlf-deploy/static/js/2.e11dacf5.chunk.js",
     "index.html": "/mlf-deploy/index.html",
-    "precache-manifest.1f44e87d64cf2ad5b0b0670bab5fee05.js": "/mlf-deploy/precache-manifest.1f44e87d64cf2ad5b0b0670bab5fee05.js",
+    "precache-manifest.9cd664289aebf2c0ebdd734b60561b85.js": "/mlf-deploy/precache-manifest.9cd664289aebf2c0ebdd734b60561b85.js",
     "service-worker.js": "/mlf-deploy/service-worker.js",
     "static/js/2.e11dacf5.chunk.js.LICENSE.txt": "/mlf-deploy/static/js/2.e11dacf5.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/mlf-deploy/static/media/background.e49ad788.jpg",
@@ -17,6 +17,6 @@
     "static/css/2.a64725b0.chunk.css",
     "static/js/2.e11dacf5.chunk.js",
     "static/css/main.d18eaeb9.chunk.css",
-    "static/js/main.f59310e2.chunk.js"
+    "static/js/main.0e9c83f3.chunk.js"
   ]
 }
